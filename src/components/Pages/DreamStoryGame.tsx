@@ -840,6 +840,90 @@ const DreamStoryGame: React.FC<DreamStoryGameProps> = ({ onBack }) => {
                 <div className="isometric-shadow"></div>
                 {gameState.dailyActions.shower && <div className="isometric-completion">✓</div>}
               </div>
+              
+              {/* DECORAÇÕES DA SALA DE ESTAR */}
+              <div className="isometric-bookshelf">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-floor-lamp">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-window"></div>
+              <div className="isometric-wall-art"></div>
+              <div className="isometric-wall-clock"></div>
+              <div className="isometric-plant">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-rug"></div>
+              
+              {/* DECORAÇÕES DO QUARTO */}
+              <div className="isometric-wardrobe">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-chair">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-vanity">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-bedside-lamp">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-bedroom-window"></div>
+              <div className="isometric-bedroom-rug"></div>
+              <div className="isometric-laundry-basket">
+                <div className="isometric-shadow"></div>
+              </div>
+              
+              {/* DECORAÇÕES DO BANHEIRO */}
+              <div className="isometric-towel-rack">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-sink">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-mirror"></div>
+              <div className="isometric-bathroom-rug"></div>
+              <div className="isometric-trash-bin">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-bathroom-window"></div>
+              <div className="isometric-wall-frame"></div>
+              
+              {/* DECORAÇÕES DA COZINHA */}
+              <div className="isometric-cutting-board">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-spice-shelf">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-fridge">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-coffee-station">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-trash-recycle">
+                <div className="isometric-shadow"></div>
+              </div>
+              
+              {/* DECORAÇÕES DA ACADEMIA */}
+              <div className="isometric-free-weights">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-bench">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-gym-mirror"></div>
+              <div className="isometric-yoga-mat"></div>
+              <div className="isometric-water-bottle">
+                <div className="isometric-shadow"></div>
+              </div>
+              <div className="isometric-ceiling-fan"></div>
+              <div className="isometric-motivational-poster"></div>
+              <div className="isometric-speaker">
+                <div className="isometric-shadow"></div>
+              </div>
             </div>
           </div>
 
